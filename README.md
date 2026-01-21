@@ -35,7 +35,3 @@ It supports creating delivery orders, assigning delivery agents, and updating de
 ### Tools
 - Git & GitHub
 - Postman (API testing)
-
----
-
-## 📂 Project Structure (Example)
