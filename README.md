@@ -37,6 +37,4 @@ It supports creating delivery orders, assigning delivery agents, and updating de
 - Git & GitHub
 - Postman (API testing)
 
-![Uploading ChatGPT Image Jan 21, 2026, 04_05_32 PM.png…]()
-![Uploading ChatGPT Image Jan 21, 2026, 04_05_32 PM.png…]()
 
