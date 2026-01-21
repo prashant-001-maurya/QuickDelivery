@@ -22,7 +22,6 @@ It supports creating delivery orders, assigning delivery agents, and updating de
 ## 🛠 Tech Stack
 ### Frontend
 - React
-- HTML, CSS, JavaScript
 
 ### Backend
 - Java
